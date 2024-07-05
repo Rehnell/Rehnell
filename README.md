@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rehnell!
-- 👀 I’m interested in ... AI, Software and Front End Development.
-- 🌱 I’m currently learning ... Python, HTML and CSS.
-- 💞️ I’m looking to collaborate on ... Front End & Software development.
-- 📫 How to reach me ... drop me an email at rehnell.dev@gmail.com
+- I’m interested in ... AI, Software and Front End Development.
+- I enjoy Python, JS, HTML and CSS.
+- Looking to collaborate on ... Front End & Software development.
+- How to reach me? ... drop me an email at rehnell.dev@gmail.com 📫
 
  Currently learning Python to get a job in software development. 
  I also have a passion for front end web development as I enjoy building things and being creative. 
