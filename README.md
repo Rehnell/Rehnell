@@ -16,7 +16,7 @@
 
 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,bootstrap,vs)
+![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,bootstrap,vscode)
 <!---
 Rehnell/Rehnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
