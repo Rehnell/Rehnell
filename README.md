@@ -8,6 +8,9 @@
  I also have a passion for front end web development as I enjoy building things and being creative. 
  Seeking a Front End or Software Developer role. I am currently based in London, England. 
 
+
+ My Skills
+
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 <!---
 Rehnell/Rehnell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
