@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rehnell!
+👋 Hi, I’m Rehnell!
 - I’m interested in ... AI, Software and Front End Development.
 - I enjoy Python, JS, HTML and CSS.
 - Looking to collaborate on ... Front End & Software development.
