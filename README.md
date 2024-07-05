@@ -9,7 +9,8 @@
  Seeking a Front End or Software Developer role. I am currently based in London, England. 
 
 
- My Skills
+
+Tech Stack:
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css)
 <!---
