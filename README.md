@@ -4,9 +4,8 @@
 - Looking to collaborate on ... Front End & Software development.
 - How to reach me? ... drop me an email at rehnell.dev@gmail.com 📫
 
- Currently learning Python to get a job in software development. 
- I also have a passion for coding and enjoy Software & front end development as I enjoy problem solving, building things and being creative. 
- Seeking a Front End or Software Developer/Engineer role. 
+ Currently learning Python to get a job in software or frontend development. 
+ I have a passion for coding and enjoy Software & front end development as I enjoy problem solving, building things and being creative. 
  
  I am currently based in London, England. 
 
