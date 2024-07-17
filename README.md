@@ -13,7 +13,7 @@ Email: rehnell.dev@gmail.com 📫
 
 Tech Stack:
 
-![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,bootstrap,vscode,github,ps,ae,figma,adobe)
+![My Skills](https://skillicons.dev/icons?i=js,python,html,css,react,bootstrap,vscode,github,ps,ae,figma)
 
 
 <!---
