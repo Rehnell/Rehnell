@@ -1,7 +1,7 @@
 Frontend & Software Development | Python | JS | HTML | CSS | React
 
  Currently looking for software or frontend development role. 
- I have a passion for coding and enjoy Software & front end development as I enjoy problem solving, building things and being creative. 
+ I have a passion for coding and enjoy software & front end development as I enjoy problem solving, building things and being creative. 
  
  I am currently based in London, England. 
 
