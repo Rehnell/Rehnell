@@ -7,7 +7,7 @@ Frontend & Software Development | Python | JS | HTML | CSS | React
 
 Email: rehnell.dev@gmail.com 📫
 
-
+linkedIn: https://uk.linkedin.com/in/rehnellblackett
 
 
 
